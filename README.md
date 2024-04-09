@@ -8,8 +8,8 @@
 
   - 📚 I’m currently learning **Machine Learning, Stadistics and Golang**
 
-  - 👨‍💻 All of my projects are available at [https://github.com/HanamDavid](https://github.com/HanamDavid)
-
+  - 👨‍💻 Look my Personal page at [https://hanamdavid.github.io/](https://hanamdavid.github.io/)
+    
   - 📫 How to reach me **juandguarnizog64@gmail.com**
 </p>
 
