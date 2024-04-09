@@ -1,14 +1,18 @@
 ![Header](../main/Banner_mini.png)
 <h1 align="center">Juan David Guarnizo Gutierrez</h1>
 <h2>Hoping for a Better Future 💻</h2>
+<img align="right" src="../main/data.gif" width=400>
+<p align="left">
+  
+  - 👾 I’m currently Studing **Computer Science**
 
-- 👾 I’m currently Studing **Computer Science**
+  - 📚 I’m currently learning **Machine Learning, Stadistics and Golang**
 
-- 📚 I’m currently learning **Machine Learning, Stadistics and Golang**
+  - 👨‍💻 All of my projects are available at [https://github.com/HanamDavid](https://github.com/HanamDavid)
 
-- 👨‍💻 All of my projects are available at [https://github.com/HanamDavid](https://github.com/HanamDavid)
+  - 📫 How to reach me **juandguarnizog64@gmail.com**
+</p>
 
-- 📫 How to reach me **juandguarnizog64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
