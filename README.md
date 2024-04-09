@@ -1,4 +1,4 @@
-![Header](../Banner.png)
+![Header](../main/Banner_mini.png)
 <h1>Juan David Guarnizo Gutierrez</h1>
 ### Hi there 👋
 
