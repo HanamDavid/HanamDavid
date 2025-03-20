@@ -6,7 +6,7 @@
   
   - 👾 I’m currently Studing **Computer Science**
 
-  - 📚 I’m currently learning **Machine Learning, Stadistics and Golang**
+  - 📚 I’m currently learning **Backend and cloud**
 
   - 👨‍💻 Look my Personal page at [https://hanamdavid.github.io/](https://hanamdavid.github.io/)
     
