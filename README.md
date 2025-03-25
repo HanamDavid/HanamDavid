@@ -1,4 +1,6 @@
-![Header](https://raw.githubusercontent.com/HanamDavid/HanamDavid/main/Banner_mini.png)
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/67607955080161.597768d22e415.gif" width="300">
+</p>
 
 <h1 align="center">🚀 Juan David Guarnizo Gutierrez 🚀</h1>
 <h3 align="center">Backend Developer | Linux Enthusiast | API Builder</h3>
@@ -11,15 +13,20 @@
 
 ---
 
+
 ## 🚀 About Me  
+
+<p>
+  <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="120" align="right" style="margin-left: 15px;">
+</p>
+
 🔹 **Systems and Computing Engineering Student** at **National University of Colombia**  
 🔹 **Passionate about Data, world-changing technology, APIs & distributed systems**  
 🔹 **Proficient in:** Python 🐍 | Golang 🦫 | Java ☕ | C++ 🚀  
 🔹 **Tech Enthusiast:** Arch Linux 🐧 | Docker 🐳 | PostgreSQL 🗄️  
 
 🔸 **Interests:**  
-🎵 Jazz Lover 🎸 | ⌨️ Neovim Tweaker | 💻 Open Source Contributor  
-
+🎵 Jazz Lover 🎸 | ⌨️ Neovim Tweaker | 💻 Open Source Contributor
 ---
 
 ## ⚙️ Tech Stack  
