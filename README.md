@@ -1,7 +1,6 @@
 ![Header](../main/Banner_mini.png)
 <h1 align="center">Juan David Guarnizo Gutierrez</h1>
 <h2>Hoping for a Better Future 💻</h2>
-<img align="right" src="../main/data.gif" width=400>
 <p align="left">
   
   - 👾 I’m currently Studing **Computer Science**
